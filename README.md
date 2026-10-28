@@ -1,5 +1,6 @@
 # NSP Twitch
-Android приложение для просмотра Twitch стримов на NVIDIA SHIELD PORTABLE.
+Android приложение для просмотра Twitch-стримов на NVIDIA SHIELD PORTABLE.
+
 Lite Twitch client special for Nvidia Shield Portable and Android 5.1
 
 ![Screenshot](screen.png)
